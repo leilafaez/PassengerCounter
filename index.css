@@ -5,6 +5,12 @@ body {
     font-weight: bold;
     text-align: center;
 }
+.container{
+    background-color: #CFA99A;
+    width: 570px;
+    margin: auto;
+    opacity: 80%;
+}
 
 h1 {
     margin-top: 10px;
